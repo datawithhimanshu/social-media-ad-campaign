@@ -52,3 +52,9 @@ Created heatmaps and comparative charts for performance insights.
 - Male audience shows better efficiency (lower CPA, higher CVR).
 - Budgets should prioritize these segments for maximum ROI.
 
+# Future Budget Reallocation Strategy
+- **Double down** on **Males, age 30–34, top 5 interests(31,36,101,102,112)** → this combo gives **lowest CPA**.
+- Reduce waste on Females 45–49 and low ROI interests (>70 CPA).
+- A/B test creatives for 35–44 group + mid-tier interests to see if CPA can be lowered.
+- Monitor CPA trend monthly; reallocate dynamically based on performance shifts.
+
