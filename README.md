@@ -1,9 +1,4 @@
 # Social-Media-Ad-Campaign
-Comprehensive analysis of social media ad campaigns with data cleaning, KPI evaluation (CTR, CVR, CPL, CPA), demographic insights, and ROI-based budget recommendations.
-
-Link- https://www.kaggle.com/datasets/loveall/clicks-conversion-tracking
-
-The data set is retrieved from the Kaggle data set Sales Conversion Optimization by GOKAGGLERS, where it describes the marketing and conversion information of an anonymous organisation’s social media ad campaign.
 
 Overall, the data has 1143 entries and 11 columns. A brief description for each column can be given as follows:
 
